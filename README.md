@@ -1,16 +1,24 @@
-# flutter_application_1
+Carefeine is a Flutter application designed to recommend the optimal caffeine intake for different users, including:
+	•	Patients using caffeine for therapy or medical conditions.
+	•	Normal individuals who want to enjoy coffee with a personalized caffeine level.
+	•	Coffee lovers who are concerned about their caffeine intake.
 
-A new Flutter project.
+Features
 
-## Getting Started
+✅ Personalized caffeine recommendations based on user preferences and health conditions.
+✅ User-friendly interface for tracking and managing caffeine intake.
+✅ Scientific insights on caffeine effects for different user groups.
 
-This project is a starting point for a Flutter application.
+Technologies Used
+	•	Flutter (Dart) - Frontend framework
+	•	Firebase / Local Storage (Optional) - User data management
+	•	API Integration (If applicable) - Caffeine database or recommendations
 
-A few resources to get you started if this is your first Flutter project:
+Installation
+	1.	Clone this repository:
+ 	2.	Install dependencies:
+  3.	Run the app:
+  
+Contribution
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Contributions are welcome! Feel free to submit a pull request or open an issue.
